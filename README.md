@@ -52,4 +52,4 @@
   
   <h2> 📧 Contact </h2>
 
-Ashu Sagar - [Linkedin](https://www.linkedin.com/in/mucahittasan) - [E-mail](mailto:itsashusagar@gmail.com)
+Ashu Sagar - [Linkedin](https://www.linkedin.com/in/itsashusagar/) - [E-mail](mailto:itsashusagar@gmail.com)
